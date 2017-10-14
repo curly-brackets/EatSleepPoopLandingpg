@@ -246,7 +246,7 @@ section.download h2 {
 }
 
 section.middle {
-    background-image: url(/img/baby1.jpg);
+    background-image: url(../img/baby1.jpg);
     background-size: cover;
     background-position: center;
     height: 500px;
