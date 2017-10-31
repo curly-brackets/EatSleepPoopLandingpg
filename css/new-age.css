@@ -44,7 +44,7 @@ h4,
 h5,
 h6 {
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
-    font-weight: 200;
+
     letter-spacing: 1px;
 }
 
@@ -249,7 +249,7 @@ section.middle {
     background-image: url(../img/baby1.jpg);
     background-size: cover;
     background-position: center;
-    height: 500px;
+    height: 1355px;
 }
 
 section.features .section-heading {
